@@ -1,0 +1,2098 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: EngineStarting
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: 360}
+        inSlope: {x: 0, y: 0, z: 140}
+        outSlope: {x: 0, y: 0, z: 140}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: 740}
+        inSlope: {x: 0, y: 0, z: 190}
+        outSlope: {x: 0, y: 0, z: 190}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Flywheel (1)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: 360}
+        inSlope: {x: 0, y: 0, z: 140}
+        outSlope: {x: 0, y: 0, z: 140}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: 740}
+        inSlope: {x: 0, y: 0, z: 190}
+        outSlope: {x: 0, y: 0, z: 190}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Flywheel
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: 360}
+        inSlope: {x: 0, y: 0, z: 135}
+        outSlope: {x: 0, y: 0, z: 135}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: 720}
+        inSlope: {x: 0, y: 0, z: 180}
+        outSlope: {x: 0, y: 0, z: 180}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston (1)/MainShaft
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 240}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: 600}
+        inSlope: {x: 0, y: 0, z: 135}
+        outSlope: {x: 0, y: 0, z: 135}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: 960}
+        inSlope: {x: 0, y: 0, z: 180}
+        outSlope: {x: 0, y: 0, z: 180}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston (2)/MainShaft
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 120}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: 480}
+        inSlope: {x: 0, y: 0, z: 135}
+        outSlope: {x: 0, y: 0, z: 135}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: 840}
+        inSlope: {x: 0, y: 0, z: 180}
+        outSlope: {x: 0, y: 0, z: 180}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston/MainShaft
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.6166666
+        value: {x: 0, y: 0, z: -180}
+        inSlope: {x: 0, y: 0, z: -92.51989}
+        outSlope: {x: 0, y: 0, z: -92.51989}
+        tangentMode: 0
+      - time: 3.4166667
+        value: {x: 0, y: 0, z: -273}
+        inSlope: {x: 0, y: 0, z: -132.69643}
+        outSlope: {x: 0, y: 0, z: -132.69643}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: -360}
+        inSlope: {x: 0, y: 0, z: -160.2236}
+        outSlope: {x: 0, y: 0, z: -160.2236}
+        tangentMode: 0
+      - time: 5.15
+        value: {x: 0, y: 0, z: -557}
+        inSlope: {x: 0, y: 0, z: -172.4943}
+        outSlope: {x: 0, y: 0, z: -172.4943}
+        tangentMode: 0
+      - time: 5.4666667
+        value: {x: 0, y: 0, z: -612}
+        inSlope: {x: 0, y: 0, z: -188.09213}
+        outSlope: {x: 0, y: 0, z: -188.09213}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: -720}
+        inSlope: {x: 0, y: 0, z: -202.50002}
+        outSlope: {x: 0, y: 0, z: -202.50002}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 128}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: 0, y: 0, z: 117}
+        inSlope: {x: 0, y: 0, z: -33.452385}
+        outSlope: {x: 0, y: 0, z: -33.452385}
+        tangentMode: 0
+      - time: 0.95
+        value: {x: 0, y: 0, z: 100}
+        inSlope: {x: 0, y: 0, z: -61.785717}
+        outSlope: {x: 0, y: 0, z: -61.785717}
+        tangentMode: 0
+      - time: 1.6166667
+        value: {x: 0, y: 0, z: 50}
+        inSlope: {x: 0, y: 0, z: -93.055565}
+        outSlope: {x: 0, y: 0, z: -93.055565}
+        tangentMode: 0
+      - time: 2.0666666
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -117.62453}
+        outSlope: {x: 0, y: 0, z: -117.62453}
+        tangentMode: 0
+      - time: 2.55
+        value: {x: 0, y: 0, z: -60}
+        inSlope: {x: 0, y: 0, z: -125.22687}
+        outSlope: {x: 0, y: 0, z: -125.22687}
+        tangentMode: 0
+      - time: 2.8666666
+        value: {x: 0, y: 0, z: -100}
+        inSlope: {x: 0, y: 0, z: -121.69449}
+        outSlope: {x: 0, y: 0, z: -121.69449}
+        tangentMode: 0
+      - time: 3.55
+        value: {x: 0, y: 0, z: -180}
+        inSlope: {x: 0, y: 0, z: -120.786575}
+        outSlope: {x: 0, y: 0, z: -120.786575}
+        tangentMode: 0
+      - time: 4.2166667
+        value: {x: 0, y: 0, z: -263}
+        inSlope: {x: 0, y: 0, z: -156.121}
+        outSlope: {x: 0, y: 0, z: -156.121}
+        tangentMode: 0
+      - time: 4.733333
+        value: {x: 0, y: 0, z: -360}
+        inSlope: {x: 0, y: 0, z: -197.31924}
+        outSlope: {x: 0, y: 0, z: -197.31924}
+        tangentMode: 0
+      - time: 5.2166667
+        value: {x: 0, y: 0, z: -460}
+        inSlope: {x: 0, y: 0, z: -188.98013}
+        outSlope: {x: 0, y: 0, z: -188.98013}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: -594}
+        inSlope: {x: 0, y: 0, z: -171.06384}
+        outSlope: {x: 0, y: 0, z: -171.06384}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -126}
+        inSlope: {x: 0, y: 0, z: -0.09239661}
+        outSlope: {x: 0, y: 0, z: -0.09239661}
+        tangentMode: 0
+      - time: 0.95
+        value: {x: 0, y: 0, z: -153.30124}
+        inSlope: {x: 0, y: 0, z: -51.32689}
+        outSlope: {x: 0, y: 0, z: -51.32689}
+        tangentMode: 0
+      - time: 1.4333333
+        value: {x: 0, y: 0, z: -182.20923}
+        inSlope: {x: 0, y: 0, z: -68.70747}
+        outSlope: {x: 0, y: 0, z: -68.70747}
+        tangentMode: 0
+      - time: 2.15
+        value: {x: 0, y: 0, z: -242}
+        inSlope: {x: 0, y: 0, z: -99.063095}
+        outSlope: {x: 0, y: 0, z: -99.063095}
+        tangentMode: 0
+      - time: 3.1
+        value: {x: 0, y: 0, z: -360}
+        inSlope: {x: 0, y: 0, z: -135.23024}
+        outSlope: {x: 0, y: 0, z: -135.23024}
+        tangentMode: 0
+      - time: 3.6333334
+        value: {x: 0, y: 0, z: -438}
+        inSlope: {x: 0, y: 0, z: -138.57953}
+        outSlope: {x: 0, y: 0, z: -138.57953}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0, z: -486}
+        inSlope: {x: 0, y: 0, z: -136.22379}
+        outSlope: {x: 0, y: 0, z: -136.22379}
+        tangentMode: 0
+      - time: 4.65
+        value: {x: 0, y: 0, z: -578}
+        inSlope: {x: 0, y: 0, z: -159.19029}
+        outSlope: {x: 0, y: 0, z: -159.19029}
+        tangentMode: 0
+      - time: 4.9666667
+        value: {x: 0, y: 0, z: -634}
+        inSlope: {x: 0, y: 0, z: -194.67105}
+        outSlope: {x: 0, y: 0, z: -194.67105}
+        tangentMode: 0
+      - time: 5.366667
+        value: {x: 0, y: 0, z: -719}
+        inSlope: {x: 0, y: 0, z: -213.55765}
+        outSlope: {x: 0, y: 0, z: -213.55765}
+        tangentMode: 0
+      - time: 5.8
+        value: {x: 0, y: 0, z: -812}
+        inSlope: {x: 0, y: 0, z: -192.30777}
+        outSlope: {x: 0, y: 0, z: -192.30777}
+        tangentMode: 0
+      - time: 6
+        value: {x: 0, y: 0, z: -846}
+        inSlope: {x: 0, y: 0, z: -170.00017}
+        outSlope: {x: 0, y: 0, z: -170.00017}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.6166666
+        value: {x: -1.7042279e-16, y: 8, z: 0}
+        inSlope: {x: 0, y: 0.2555444, z: 0}
+        outSlope: {x: 0, y: 0.2555444, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: -0.23369342, z: 0}
+        outSlope: {x: 0, y: -0.23369342, z: 0}
+        tangentMode: 0
+      - time: 4.9666667
+        value: {x: -1.7042279e-16, y: 8, z: 0}
+        inSlope: {x: 0, y: -0.050055563, z: 0}
+        outSlope: {x: 0, y: -0.050055563, z: 0}
+        tangentMode: 0
+      - time: 6
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: 1.451613, z: 0}
+        outSlope: {x: 0, y: 1.451613, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston (1)/Engine_Piston 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.7042279e-16, y: 8.352, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.0666666
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: -0.20098147, z: 0}
+        outSlope: {x: 0, y: -0.20098147, z: 0}
+        tangentMode: 0
+      - time: 3.6333334
+        value: {x: -1.7042279e-16, y: 8, z: 0}
+        inSlope: {x: 0, y: 0.20309502, z: 0}
+        outSlope: {x: 0, y: 0.20309502, z: 0}
+        tangentMode: 0
+      - time: 4.733333
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: -0.021306336, z: 0}
+        outSlope: {x: 0, y: -0.021306336, z: 0}
+        tangentMode: 0
+      - time: 5.8
+        value: {x: -1.7042279e-16, y: 8, z: 0}
+        inSlope: {x: 0, y: 0.109375596, z: 0}
+        outSlope: {x: 0, y: 0.109375596, z: 0}
+        tangentMode: 0
+      - time: 6
+        value: {x: -1.7042279e-16, y: 8.325, z: 0}
+        inSlope: {x: 0, y: 1.6250006, z: 0}
+        outSlope: {x: 0, y: 1.6250006, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston (2)/Engine_Piston 1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.7042279e-16, y: 8.352, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.4333333
+        value: {x: -1.7042279e-16, y: 8, z: 0}
+        inSlope: {x: 0, y: 0.32720923, z: 0}
+        outSlope: {x: 0, y: 0.32720923, z: 0}
+        tangentMode: 0
+      - time: 3.1
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: -0.126923, z: 0}
+        outSlope: {x: 0, y: -0.126923, z: 0}
+        tangentMode: 0
+      - time: 4.4
+        value: {x: -1.7042279e-16, y: 8, z: 0}
+        inSlope: {x: 0, y: 0.19893903, z: 0}
+        outSlope: {x: 0, y: 0.19893903, z: 0}
+        tangentMode: 0
+      - time: 5.366667
+        value: {x: -1.7042279e-16, y: 9.5, z: 0}
+        inSlope: {x: 0, y: -0.15176988, z: 0}
+        outSlope: {x: 0, y: -0.15176988, z: 0}
+        tangentMode: 0
+      - time: 6
+        value: {x: -1.7042279e-16, y: 8.325, z: 0}
+        inSlope: {x: 0, y: -1.8552638, z: 0}
+        outSlope: {x: 0, y: -1.8552638, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Engine_Piston/Engine_Piston 1
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3673072329
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 812154795
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 521164073
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3189664094
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 523141905
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3748237603
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2834777043
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2379628445
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 642001074
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 4015726605
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 860203658
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 6
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Flywheel (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Flywheel (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 360
+        inSlope: 140
+        outSlope: 140
+        tangentMode: 10
+      - time: 6
+        value: 740
+        inSlope: 190
+        outSlope: 190
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Flywheel (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Flywheel
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Flywheel
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 360
+        inSlope: 140
+        outSlope: 140
+        tangentMode: 10
+      - time: 6
+        value: 740
+        inSlope: 190
+        outSlope: 190
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Flywheel
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.6166666
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.9666667
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Engine_Piston (1)/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 9.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.6166666
+        value: 8
+        inSlope: 0.2555444
+        outSlope: 0.2555444
+        tangentMode: 10
+      - time: 4
+        value: 9.5
+        inSlope: -0.23369342
+        outSlope: -0.23369342
+        tangentMode: 10
+      - time: 4.9666667
+        value: 8
+        inSlope: -0.050055563
+        outSlope: -0.050055563
+        tangentMode: 10
+      - time: 6
+        value: 9.5
+        inSlope: 1.451613
+        outSlope: 1.451613
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Engine_Piston (1)/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.6166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.9666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Engine_Piston (1)/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Piston (1)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Piston (1)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 360
+        inSlope: 135
+        outSlope: 135
+        tangentMode: 10
+      - time: 6
+        value: 720
+        inSlope: 180
+        outSlope: 180
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Piston (1)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.0666666
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.6333334
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.733333
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.8
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Engine_Piston (2)/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 8.352
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.0666666
+        value: 9.5
+        inSlope: -0.20098147
+        outSlope: -0.20098147
+        tangentMode: 10
+      - time: 3.6333334
+        value: 8
+        inSlope: 0.20309502
+        outSlope: 0.20309502
+        tangentMode: 10
+      - time: 4.733333
+        value: 9.5
+        inSlope: -0.021306336
+        outSlope: -0.021306336
+        tangentMode: 10
+      - time: 5.8
+        value: 8
+        inSlope: 0.109375596
+        outSlope: 0.109375596
+        tangentMode: 10
+      - time: 6
+        value: 8.325
+        inSlope: 1.6250006
+        outSlope: 1.6250006
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Engine_Piston (2)/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.733333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Engine_Piston (2)/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Piston (2)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Piston (2)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 240
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 600
+        inSlope: 135
+        outSlope: 135
+        tangentMode: 10
+      - time: 6
+        value: 960
+        inSlope: 180
+        outSlope: 180
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Piston (2)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4333333
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.1
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.4
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.366667
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: -1.7042279e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Engine_Piston/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 8.352
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4333333
+        value: 8
+        inSlope: 0.32720923
+        outSlope: 0.32720923
+        tangentMode: 10
+      - time: 3.1
+        value: 9.5
+        inSlope: -0.126923
+        outSlope: -0.126923
+        tangentMode: 10
+      - time: 4.4
+        value: 8
+        inSlope: 0.19893903
+        outSlope: 0.19893903
+        tangentMode: 10
+      - time: 5.366667
+        value: 9.5
+        inSlope: -0.15176988
+        outSlope: -0.15176988
+        tangentMode: 10
+      - time: 6
+        value: 8.325
+        inSlope: -1.8552638
+        outSlope: -1.8552638
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Engine_Piston/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Engine_Piston/Engine_Piston 1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Piston/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Piston/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 120
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 480
+        inSlope: 135
+        outSlope: 135
+        tangentMode: 10
+      - time: 6
+        value: 840
+        inSlope: 180
+        outSlope: 180
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Piston/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.6166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.4166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.6166666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.4166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.4666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.6166666
+        value: -180
+        inSlope: -92.51989
+        outSlope: -92.51989
+        tangentMode: 10
+      - time: 3.4166667
+        value: -273
+        inSlope: -132.69643
+        outSlope: -132.69643
+        tangentMode: 10
+      - time: 4
+        value: -360
+        inSlope: -160.2236
+        outSlope: -160.2236
+        tangentMode: 10
+      - time: 5.15
+        value: -557
+        inSlope: -172.4943
+        outSlope: -172.4943
+        tangentMode: 10
+      - time: 5.4666667
+        value: -612
+        inSlope: -188.09213
+        outSlope: -188.09213
+        tangentMode: 10
+      - time: 6
+        value: -720
+        inSlope: -202.50002
+        outSlope: -202.50002
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.95
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.6166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.55
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.8666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.55
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.2166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.733333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.2166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.95
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.6166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.55
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.8666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.55
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.2166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.733333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.2166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 128
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 117
+        inSlope: -33.452385
+        outSlope: -33.452385
+        tangentMode: 10
+      - time: 0.95
+        value: 100
+        inSlope: -61.785717
+        outSlope: -61.785717
+        tangentMode: 10
+      - time: 1.6166667
+        value: 50
+        inSlope: -93.055565
+        outSlope: -93.055565
+        tangentMode: 10
+      - time: 2.0666666
+        value: 0
+        inSlope: -117.62453
+        outSlope: -117.62453
+        tangentMode: 10
+      - time: 2.55
+        value: -60
+        inSlope: -125.22687
+        outSlope: -125.22687
+        tangentMode: 10
+      - time: 2.8666666
+        value: -100
+        inSlope: -121.69449
+        outSlope: -121.69449
+        tangentMode: 10
+      - time: 3.55
+        value: -180
+        inSlope: -120.786575
+        outSlope: -120.786575
+        tangentMode: 10
+      - time: 4.2166667
+        value: -263
+        inSlope: -156.121
+        outSlope: -156.121
+        tangentMode: 10
+      - time: 4.733333
+        value: -360
+        inSlope: -197.31924
+        outSlope: -197.31924
+        tangentMode: 10
+      - time: 5.2166667
+        value: -460
+        inSlope: -188.98013
+        outSlope: -188.98013
+        tangentMode: 10
+      - time: 6
+        value: -594
+        inSlope: -171.06384
+        outSlope: -171.06384
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.95
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.65
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 5.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 5.8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.95
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.15
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.6333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.65
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 4.9666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 5.366667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 5.8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -126
+        inSlope: -0.09239661
+        outSlope: -0.09239661
+        tangentMode: 0
+      - time: 0.95
+        value: -153.30124
+        inSlope: -51.32689
+        outSlope: -51.32689
+        tangentMode: 10
+      - time: 2.15
+        value: -242
+        inSlope: -99.063095
+        outSlope: -99.063095
+        tangentMode: 10
+      - time: 3.1
+        value: -360
+        inSlope: -135.23024
+        outSlope: -135.23024
+        tangentMode: 10
+      - time: 3.6333334
+        value: -438
+        inSlope: -138.57953
+        outSlope: -138.57953
+        tangentMode: 10
+      - time: 4
+        value: -486
+        inSlope: -136.22379
+        outSlope: -136.22379
+        tangentMode: 10
+      - time: 4.65
+        value: -578
+        inSlope: -159.19029
+        outSlope: -159.19029
+        tangentMode: 10
+      - time: 4.9666667
+        value: -634
+        inSlope: -194.67105
+        outSlope: -194.67105
+        tangentMode: 10
+      - time: 5.366667
+        value: -719
+        inSlope: -213.55765
+        outSlope: -213.55765
+        tangentMode: 10
+      - time: 5.8
+        value: -812
+        inSlope: -192.30777
+        outSlope: -192.30777
+        tangentMode: 10
+      - time: 6
+        value: -846
+        inSlope: -170.00017
+        outSlope: -170.00017
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Piston (2)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Piston (2)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Piston (2)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Piston (1)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Piston (1)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Piston (1)/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Piston (2)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Piston/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Piston/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Piston/MainShaft
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Flywheel
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Flywheel
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Flywheel
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Flywheel (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Flywheel (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Flywheel (1)
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Piston (1)/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Engine_Piston/MainShaft/Engine_Piston_Crank
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: 0
+    functionName: playSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: PlayPiston02
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.3
+    functionName: PlayCrank01
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.8166667
+    functionName: PlayPiston03
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.65
+    functionName: PlayCrank02
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.0833333
+    functionName: PlayPiston01
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.4833333
+    functionName: PlayCrank03
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.7666667
+    functionName: PlayPiston02
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 4.016667
+    functionName: PlayFlywheel01
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 5
+    functionName: PlayFlywheel02
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 5.3333335
+    functionName: PlayPiston01
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

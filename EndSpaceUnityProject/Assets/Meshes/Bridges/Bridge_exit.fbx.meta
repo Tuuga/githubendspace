@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 75ca20a03e5c74c8584520d09ae670f6
+timeCreated: 1461761546
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bridge_exit_floor
+    100004: bridge_exit_pole_01
+    100006: bridge_exit_pole_02
+    100008: bridge_exit_pole_03
+    100010: bridge_exit_pole_04
+    100012: bridge_exit_pole_05
+    100014: bridge_exit_pole_06
+    100016: bridge_exit_pole_07
+    100018: bridge_exit_rail_01
+    100020: bridge_exit_rail_02
+    100022: bridge_exit_rail_03
+    100024: bridge_exit_rail_04
+    100026: bridge_exit_rail_05
+    100028: bridge_exit_rail_06
+    100030: bridge_exit_rail_07
+    100032: bridge_exit_rail_08
+    100034: bridge_exit_pole_08
+    400000: //RootNode
+    400002: bridge_exit_floor
+    400004: bridge_exit_pole_01
+    400006: bridge_exit_pole_02
+    400008: bridge_exit_pole_03
+    400010: bridge_exit_pole_04
+    400012: bridge_exit_pole_05
+    400014: bridge_exit_pole_06
+    400016: bridge_exit_pole_07
+    400018: bridge_exit_rail_01
+    400020: bridge_exit_rail_02
+    400022: bridge_exit_rail_03
+    400024: bridge_exit_rail_04
+    400026: bridge_exit_rail_05
+    400028: bridge_exit_rail_06
+    400030: bridge_exit_rail_07
+    400032: bridge_exit_rail_08
+    400034: bridge_exit_pole_08
+    2300000: bridge_exit_floor
+    2300002: bridge_exit_pole_01
+    2300004: bridge_exit_pole_02
+    2300006: bridge_exit_pole_03
+    2300008: bridge_exit_pole_04
+    2300010: bridge_exit_pole_05
+    2300012: bridge_exit_pole_06
+    2300014: bridge_exit_pole_07
+    2300016: bridge_exit_rail_01
+    2300018: bridge_exit_rail_02
+    2300020: bridge_exit_rail_03
+    2300022: bridge_exit_rail_04
+    2300024: bridge_exit_rail_05
+    2300026: bridge_exit_rail_06
+    2300028: bridge_exit_rail_07
+    2300030: bridge_exit_rail_08
+    2300032: bridge_exit_pole_08
+    3300000: bridge_exit_floor
+    3300002: bridge_exit_pole_01
+    3300004: bridge_exit_pole_02
+    3300006: bridge_exit_pole_03
+    3300008: bridge_exit_pole_04
+    3300010: bridge_exit_pole_05
+    3300012: bridge_exit_pole_06
+    3300014: bridge_exit_pole_07
+    3300016: bridge_exit_rail_01
+    3300018: bridge_exit_rail_02
+    3300020: bridge_exit_rail_03
+    3300022: bridge_exit_rail_04
+    3300024: bridge_exit_rail_05
+    3300026: bridge_exit_rail_06
+    3300028: bridge_exit_rail_07
+    3300030: bridge_exit_rail_08
+    3300032: bridge_exit_pole_08
+    4300000: bridge_exit_pole_01
+    4300002: bridge_exit_pole_02
+    4300004: bridge_exit_pole_03
+    4300006: bridge_exit_pole_04
+    4300008: bridge_exit_pole_05
+    4300010: bridge_exit_rail_01
+    4300012: bridge_exit_rail_02
+    4300014: bridge_exit_rail_03
+    4300016: bridge_exit_rail_04
+    4300018: bridge_exit_rail_05
+    4300020: bridge_exit_rail_06
+    4300022: bridge_exit_rail_07
+    4300024: bridge_exit_rail_08
+    4300026: bridge_exit_pole_06
+    4300028: bridge_exit_pole_07
+    4300030: bridge_exit_floor
+    4300032: bridge_exit_pole_08
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

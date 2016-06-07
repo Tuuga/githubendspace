@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 68ab1d11cd0924450b4b574152873340
+timeCreated: 1461772325
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bridge_staircase_floor_1
+    100004: bridge_staircase_step_1
+    100006: bridge_staircase_step_2
+    100008: bridge_staircase_step_3
+    100010: bridge_staircase_step_4
+    100012: bridge_staircase_step_5
+    100014: Pole_A2
+    100016: Pole_B2
+    100018: Pole_B3
+    100020: Pole_B4
+    100022: Pole_C2
+    100024: Pole_C3
+    100026: Rail_A1
+    100028: Rail_B1
+    100030: Rail_C1
+    100032: Rail_D1
+    100034: bridge_staircase_step_6
+    100036: bridge_staircase_step_7
+    100038: bridge_staircase_step_8
+    100040: bridge_staircase_step_9
+    400000: //RootNode
+    400002: bridge_staircase_floor_1
+    400004: bridge_staircase_step_1
+    400006: bridge_staircase_step_2
+    400008: bridge_staircase_step_3
+    400010: bridge_staircase_step_4
+    400012: bridge_staircase_step_5
+    400014: Pole_A2
+    400016: Pole_B2
+    400018: Pole_B3
+    400020: Pole_B4
+    400022: Pole_C2
+    400024: Pole_C3
+    400026: Rail_A1
+    400028: Rail_B1
+    400030: Rail_C1
+    400032: Rail_D1
+    400034: bridge_staircase_step_6
+    400036: bridge_staircase_step_7
+    400038: bridge_staircase_step_8
+    400040: bridge_staircase_step_9
+    2300000: bridge_staircase_floor_1
+    2300002: bridge_staircase_step_1
+    2300004: bridge_staircase_step_2
+    2300006: bridge_staircase_step_3
+    2300008: bridge_staircase_step_4
+    2300010: bridge_staircase_step_5
+    2300012: Pole_A2
+    2300014: Pole_B2
+    2300016: Pole_B3
+    2300018: Pole_B4
+    2300020: Pole_C2
+    2300022: Pole_C3
+    2300024: Rail_A1
+    2300026: Rail_B1
+    2300028: Rail_C1
+    2300030: Rail_D1
+    2300032: bridge_staircase_step_6
+    2300034: bridge_staircase_step_7
+    2300036: bridge_staircase_step_8
+    2300038: bridge_staircase_step_9
+    3300000: bridge_staircase_floor_1
+    3300002: bridge_staircase_step_1
+    3300004: bridge_staircase_step_2
+    3300006: bridge_staircase_step_3
+    3300008: bridge_staircase_step_4
+    3300010: bridge_staircase_step_5
+    3300012: Pole_A2
+    3300014: Pole_B2
+    3300016: Pole_B3
+    3300018: Pole_B4
+    3300020: Pole_C2
+    3300022: Pole_C3
+    3300024: Rail_A1
+    3300026: Rail_B1
+    3300028: Rail_C1
+    3300030: Rail_D1
+    3300032: bridge_staircase_step_6
+    3300034: bridge_staircase_step_7
+    3300036: bridge_staircase_step_8
+    3300038: bridge_staircase_step_9
+    4300000: Pole_A2
+    4300002: Pole_B2
+    4300004: Pole_C2
+    4300006: Rail_A1
+    4300008: Rail_B1
+    4300010: Rail_C1
+    4300012: Rail_D1
+    4300014: Pole_B3
+    4300016: Pole_B4
+    4300018: Pole_C3
+    4300020: bridge_staircase_floor_1
+    4300022: bridge_staircase_step_5
+    4300024: bridge_staircase_step_4
+    4300026: bridge_staircase_step_3
+    4300028: bridge_staircase_step_2
+    4300030: bridge_staircase_step_1
+    4300032: bridge_staircase_step_6
+    4300034: bridge_staircase_step_7
+    4300036: bridge_staircase_step_8
+    4300038: bridge_staircase_step_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
